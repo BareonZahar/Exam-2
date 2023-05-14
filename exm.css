@@ -141,10 +141,19 @@ label{
     .fit{
         left: 75%;
     }
+    header h2{
+        font-size: 15px;
+    }
+    pre{
+    font-size: 14px;
+    }
 }
-pre{
-    font-size: 14px
-}       
+.adres{
+    color: darkred;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
 
 
 
