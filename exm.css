@@ -141,8 +141,10 @@ label{
     .fit{
         left: 75%;
     }
-    margin-right:50px;
 }
+pre{
+    font-size: 14px
+}       
 
 
 
